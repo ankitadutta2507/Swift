@@ -1,0 +1,10 @@
+print("Hello World") //single-line comment
+
+print("Hi")/*Multiline..
+....
+...Comment*/
+
+
+var year = 2023
+print(var)
+

@@ -8,3 +8,7 @@ print("Hi")/*Multiline..
 var year = 2023
 print(var)
 
+var amount = 18.50
+var tip = amount*0.2
+print(tip) //prints 3.7
+

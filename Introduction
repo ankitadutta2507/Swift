@@ -19,3 +19,6 @@ print(apples)
 
 var book: String = "Just Kids" // declaring Type
 var pageCount:Int = 278
+
+var age = 29
+print("I am \(age) years old.")

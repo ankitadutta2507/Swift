@@ -1,0 +1,4 @@
+var weight = 50
+var height = 1.8
+var bmi = Double(weight)/(height*height)
+print(bmi)

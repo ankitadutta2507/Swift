@@ -15,6 +15,7 @@ print(tip) //prints 3.7
 var apples = 16
 apples -= 4 //use of assignment operators
 apples /= 2
-
 print(apples)
 
+var book: String = "Just Kids" // declaring Type
+var pageCount:Int = 278

@@ -5,7 +5,7 @@ print("Hi")/*Multiline..
 ...Comment*/
 
 
-var year = 2023
+var year = 2023 //variables
 print(var)
 
 var amount = 18.50
@@ -22,3 +22,5 @@ var pageCount:Int = 278
 
 var age = 29
 print("I am \(age) years old.") //string interpolation
+
+let months = 4 //constants

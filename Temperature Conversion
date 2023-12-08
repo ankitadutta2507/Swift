@@ -1,0 +1,4 @@
+var tempf:Double = 46
+var tempc:Double 
+tempc = (tempf-32)/1.8
+print("The temp is \(tempc) degrees Celsius.") //The temp is 7.777777777777778 degrees Celsius.

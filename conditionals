@@ -9,3 +9,16 @@ if wearGlasses {
 } else {
   print("I don't wear glasses")
 }
+
+var abbreviation = "RU" //if elseif else
+if abbreviation == "EN" {
+  print("English")
+} else if abbreviation == "ES"{
+  print("Spanish")
+} else if abbreviation == "ZH"{
+  print("Chinese")
+} else if abbreviation == "RU"{
+  print("Russian")
+} else {
+  print("Abbreviation not found")
+}

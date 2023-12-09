@@ -1,0 +1,11 @@
+var learningToCode = true //if
+if learningToCode {
+  print("Don't forget to take breaks! You got this")
+}
+
+var wearGlasses = true //if-else
+if wearGlasses {
+  print("I wear glasses")
+} else {
+  print("I don't wear glasses")
+}

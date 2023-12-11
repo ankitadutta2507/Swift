@@ -1,0 +1,13 @@
+var midnight = true
+var date = "January 1, 2020"
+
+// Write your code below 🎊
+if midnight && date == "January 1, 2020"{
+print("It's the start of a new decade!")
+}
+
+var carInMotion  = false
+var insideACar = true
+if carInMotion || insideACar {
+  print("Safety first! Buckle up")
+}
